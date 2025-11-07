@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Calculatrice</class>
- <widget class="QWidget" name="Calculatrice">
+ <class>CalculatriceV2</class>
+ <widget class="QWidget" name="CalculatriceV2">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>540</width>
-    <height>453</height>
+    <width>504</width>
+    <height>361</height>
    </rect>
   </property>
-  <property name="font">
-   <font>
-    <pointsize>15</pointsize>
-   </font>
-  </property>
   <property name="windowTitle">
-   <string>Calculatrice</string>
+   <string>CalculatriceV2</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(246, 245, 244);
+   <string notr="true">background-color: rgb(255, 255, 255);
 color: rgb(0, 0, 0);</string>
   </property>
   <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>80</x>
-     <y>50</y>
+     <y>30</y>
      <width>346</width>
      <height>248</height>
     </rect>
